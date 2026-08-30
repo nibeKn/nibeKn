@@ -17,19 +17,26 @@ OPEN TO   My first Front-End / UI Developer role
 <br><br>
 
 <p align="center">
+  <code>FRONT-END</code>
+  <br><br>
   <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
   <img src="https://skillicons.dev/icons?i=vue" alt="Vue" />
   <img src="https://skillicons.dev/icons?i=vite" alt="Vite" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-  <br>
+</p>
+<br>
+
+<p align="center">
+  <code>DESIGN</code>
+  <br><br>
   <img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" />
   <img src="https://skillicons.dev/icons?i=ai" alt="Illustrator" />
   <img src="https://skillicons.dev/icons?i=autocad" alt="AutoCAD" />
   <img src="https://skillicons.dev/icons?i=sketchup" alt="SketchUp" />
 </p>
-<br>
+<br><br>
 
 <a href="https://www.behance.net/joaquinleppe"><img src="https://img.shields.io/badge/behance-1C1E23?logo=behance&logoColor=white" alt="Behance"></a>
 <a href="https://www.linkedin.com/in/joaquinleppe"><img src="https://img.shields.io/badge/linkedin-1C1E23?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
