@@ -1,21 +1,8 @@
 ═══════════════════════════════════════════════════════════════════════
-  github.com/nibeKn — perfil
-
-  ANTES DE PEGAR, RELLENA:
-    · línea BASED   → tu ciudad
-    · assets/       → header-light.png, header-dark.png, loop.gif
-    · skillicons    → quita las que no uses (lista en el paso 5)
-
-  POR QUÉ EL <pre> ESTÁ FUERA DEL <div align="center">
-  GitHub hereda text-align dentro del <pre> y centra cada línea por
-  separado, lo que destruye la columna de etiquetas. Fuera del div
-  queda alineado a la izquierda y las etiquetas forman columna.
-  No lo metas dentro del div centrado.
-═══════════════════════════════════════════════════════════════════════
 
 <div align="center">
 
- HEADER ─ Tu wordmark. Diséñalo a 880 px de ancho y exporta @2x
+HEADER ─ Tu wordmark. Diséñalo a 880 px de ancho y exporta @2x
      (1760 px). Es el único sitio donde tu trabajo de diseño habla
 
 <picture>
@@ -30,17 +17,16 @@
     CODE        Vue · JavaScript · Modern CSS · Figma to production
     FOCUS       Accessible interfaces with hierarchy that survives the build
     OPEN TO     My first Front-End / UI Developer role
-    BASED       TU CIUDAD · Remote
 
 <div align="center">
 
- GIF ─ Pequeño y centrado, como el de la referencia.
+GIF ─ Pequeño y centrado, como el de la referencia.
 
-<img src="./assets/hylics.gif" height="48" alt="">
+<img src="./assets/hylics.gif" alt="">
 
 <br><br>
 
- SKILL ICONS ─ Cambia la lista en AMBAS urls (dark y light).
+SKILL ICONS ─ Cambia la lista en AMBAS urls (dark y light).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=figma,ai,ps,html,css,sass,js,vue,git,vercel\&theme=dark\&perline=10">
@@ -49,9 +35,10 @@
 
 <br><br>
 
- ENLACES ─ Mismo neutro en los dos. El color lo pone tu header,
+ENLACES ─ Mismo neutro en los dos. El color lo pone tu header,
 
 <a href="https://www.behance.net/joaquinleppe"><img src="https://img.shields.io/badge/behance-1C1E23" alt="Behance"></a>
 <a href="https://www.linkedin.com/in/joaquinleppe"><img src="https://img.shields.io/badge/linkedin-1C1E23" alt="LinkedIn"></a>
 
 </div>
+
