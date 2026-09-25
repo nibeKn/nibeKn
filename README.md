@@ -38,7 +38,6 @@ OPEN TO   My first Front-End / UI Developer role
 <img src="./assets/hylics.gif" height="150" alt="Hylics Animation">
 <br><br>
 
-<a href="https://www.behance.net/joaquinleppe"><img src="https://img.shields.io/badge/behance-1C1E23?logo=behance&logoColor=white" alt="Behance"></a>
 <a href="https://www.linkedin.com/in/joaquinleppe"><img src="https://img.shields.io/badge/linkedin-1C1E23?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 </div>
